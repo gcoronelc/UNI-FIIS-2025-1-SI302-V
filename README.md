@@ -19,13 +19,13 @@
 
 ## Delegado
 
-- Nombre: 
-- Correo: 
+- Nombre: Cristhian Javier Briceño Cabello
+- Correo: cristhian.briceno.c@uni.pe
 
 ## Subdelegado
 
-- Nombre: 
-- Correo: 
+- Nombre: Enrique Torres Julca
+- Correo: enrique.torres.j@uni.pe
 
 # RECURSOS UTILES
 
