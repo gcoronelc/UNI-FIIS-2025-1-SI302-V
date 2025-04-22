@@ -10,7 +10,7 @@ public class MatriculaDto {
     // Datos de entrada
     private Integer alumnoId;
     private Integer cursoId;
-    private Integer tipoMatricula;
+    private String tipoMatricula;
     private Integer cuotas;
     private Integer empleadoId;
     
@@ -20,7 +20,7 @@ public class MatriculaDto {
     private Boolean exitoso;
     private String mensaje;
 
-    public MatriculaDto(Integer alumnoId, Integer cursoId, Integer tipoMatricula, Integer cuotas, Integer empleadoId) {
+    public MatriculaDto(Integer alumnoId, Integer cursoId, String tipoMatricula, Integer cuotas, Integer empleadoId) {
         this.alumnoId = alumnoId;
         this.cursoId = cursoId;
         this.tipoMatricula = tipoMatricula;
